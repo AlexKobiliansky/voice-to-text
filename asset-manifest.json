@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AlexKobiliansky/voice-to-text.git/static/css/main.6e0c9f17.chunk.css",
+    "main.js": "/AlexKobiliansky/voice-to-text.git/static/js/main.9a777a4e.chunk.js",
+    "main.js.map": "/AlexKobiliansky/voice-to-text.git/static/js/main.9a777a4e.chunk.js.map",
+    "runtime-main.js": "/AlexKobiliansky/voice-to-text.git/static/js/runtime-main.24228896.js",
+    "runtime-main.js.map": "/AlexKobiliansky/voice-to-text.git/static/js/runtime-main.24228896.js.map",
+    "static/js/2.b0255f6b.chunk.js": "/AlexKobiliansky/voice-to-text.git/static/js/2.b0255f6b.chunk.js",
+    "static/js/2.b0255f6b.chunk.js.map": "/AlexKobiliansky/voice-to-text.git/static/js/2.b0255f6b.chunk.js.map",
+    "index.html": "/AlexKobiliansky/voice-to-text.git/index.html",
+    "static/css/main.6e0c9f17.chunk.css.map": "/AlexKobiliansky/voice-to-text.git/static/css/main.6e0c9f17.chunk.css.map",
+    "static/js/2.b0255f6b.chunk.js.LICENSE.txt": "/AlexKobiliansky/voice-to-text.git/static/js/2.b0255f6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24228896.js",
+    "static/js/2.b0255f6b.chunk.js",
+    "static/css/main.6e0c9f17.chunk.css",
+    "static/js/main.9a777a4e.chunk.js"
+  ]
+}
