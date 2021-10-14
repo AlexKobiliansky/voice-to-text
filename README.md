@@ -2,7 +2,7 @@
 
 [Demo on github-pages](https://alexkobiliansky.github.io/voice-to-text/)
 
-##Installation
+## Installation
 
 ```bash
 1. git clone https://github.com/AlexKobiliansky/voice-to-text
